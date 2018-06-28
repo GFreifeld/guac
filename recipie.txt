@@ -1,8 +1,4 @@
 1. Mash the Avocado
 2. Cut up the Tomatoes
 3. Cut up the Cilantro
-<<<<<<< HEAD
 4. Add salt. Mix ingredients together
-=======
-4. Mix ingredients together, with salt
->>>>>>> 474580a9142142d1735a689d4a69aae82c350356
